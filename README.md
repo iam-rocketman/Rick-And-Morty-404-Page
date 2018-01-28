@@ -1,1 +1,0 @@
-# rick-and-morty-404-page
